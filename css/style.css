@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.wave-container {
+    position: relative;
+}
+.text-container{
+    color: white;
+    font-size:x-large ;
+    text-align: center;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+section {
+    font-size: smaller;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+section h1 {
+    color: #2eb8b8;
+}
+.text-right {
+    text-align: right;
+}
+footer {
+    background-color: #002533;
+    height: 50px;
+    margin-top: 15px;
+}
